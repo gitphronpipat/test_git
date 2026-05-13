@@ -9,10 +9,6 @@
 	//$this->load->view('admin/theme/header.php');
 	?>
 
-	<title>
-		<?php 
-			echo  $title;	?>
-	</title>
 
 </head>
 <body>
