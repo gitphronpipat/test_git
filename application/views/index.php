@@ -16,9 +16,9 @@
 
 </head>
 <body>
-
+	<?php $this->load->view('theme/menu'); ?>	
   <?php $this->load->view('theme/navbar'); ?>
-  <?php $this->load->view('theme/menu'); ?>
+  
   <div id="main">
 
   </div>
